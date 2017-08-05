@@ -1,0 +1,6 @@
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\02 Basic Code Workflow\bin\Debug\02 Basic Code Workflow.exe.config
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\02 Basic Code Workflow\bin\Debug\02 Basic Code Workflow.exe
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\02 Basic Code Workflow\bin\Debug\02 Basic Code Workflow.pdb
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\02 Basic Code Workflow\obj\x86\Debug\02 Basic Code Workflow.csprojResolveAssemblyReference.cache
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\02 Basic Code Workflow\obj\x86\Debug\02 Basic Code Workflow.exe
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\02 Basic Code Workflow\obj\x86\Debug\02 Basic Code Workflow.pdb

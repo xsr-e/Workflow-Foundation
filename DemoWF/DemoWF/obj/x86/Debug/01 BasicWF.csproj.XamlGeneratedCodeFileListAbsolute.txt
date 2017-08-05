@@ -1,0 +1,4 @@
+obj\x86\Debug\_DemoWF.g.cs
+obj\x86\Debug\SimpleWorkflow.g.cs
+obj\x86\Debug\DemoWF_SimpleWorkflow_BeforeInitializeComponentHelper.cs
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\obj\x86\Debug\DemoWF_SimpleWorkflow_CompiledExpressionRoot.cs

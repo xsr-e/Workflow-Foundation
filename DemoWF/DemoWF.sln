@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 BasicWF", "DemoWF\01 BasicWF.csproj", "{EB9C94B9-91B4-4F66-9763-6CE637901145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 Basic Code Workflow", "02 Basic Code Workflow\02 Basic Code Workflow.csproj", "{05E79EFC-A03A-45EA-9245-0849CB3A4AF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 WorkflowApplication", "03 WorkflowApplication\03 WorkflowApplication.csproj", "{ADC41F79-1ABE-4045-B123-016B0E88F27C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB9C94B9-91B4-4F66-9763-6CE637901145}.Debug|x86.ActiveCfg = Debug|x86
+		{EB9C94B9-91B4-4F66-9763-6CE637901145}.Debug|x86.Build.0 = Debug|x86
+		{EB9C94B9-91B4-4F66-9763-6CE637901145}.Release|x86.ActiveCfg = Release|x86
+		{EB9C94B9-91B4-4F66-9763-6CE637901145}.Release|x86.Build.0 = Release|x86
+		{05E79EFC-A03A-45EA-9245-0849CB3A4AF4}.Debug|x86.ActiveCfg = Debug|x86
+		{05E79EFC-A03A-45EA-9245-0849CB3A4AF4}.Debug|x86.Build.0 = Debug|x86
+		{05E79EFC-A03A-45EA-9245-0849CB3A4AF4}.Release|x86.ActiveCfg = Release|x86
+		{05E79EFC-A03A-45EA-9245-0849CB3A4AF4}.Release|x86.Build.0 = Release|x86
+		{ADC41F79-1ABE-4045-B123-016B0E88F27C}.Debug|x86.ActiveCfg = Debug|x86
+		{ADC41F79-1ABE-4045-B123-016B0E88F27C}.Debug|x86.Build.0 = Debug|x86
+		{ADC41F79-1ABE-4045-B123-016B0E88F27C}.Release|x86.ActiveCfg = Release|x86
+		{ADC41F79-1ABE-4045-B123-016B0E88F27C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

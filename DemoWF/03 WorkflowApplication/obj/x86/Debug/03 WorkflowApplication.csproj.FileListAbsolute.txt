@@ -1,0 +1,22 @@
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\obj\x86\Debug\03 WorkflowApplication.csprojResolveAssemblyReference.cache
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\obj\x86\Debug\SimpleWorkflow.g.xaml
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\obj\x86\Debug\_03_WorkflowApplication_SimpleWorkflow_BeforeInitializeComponentHelper.txt
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\obj\x86\Debug\_03 WorkflowApplication.g.cs
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\obj\x86\Debug\SimpleWorkflow.g.cs
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\obj\x86\Debug\_03_WorkflowApplication_SimpleWorkflow_BeforeInitializeComponentHelper.cs
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\obj\x86\Debug\03 WorkflowApplication.csproj.XamlGeneratedCodeFileListAbsolute.txt
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\obj\x86\Debug\03 WorkflowApplication.csproj.XamlGeneratedXamlFileListAbsolute.txt
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\bin\Debug\03 WorkflowApplication.exe.config
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\bin\Debug\03 WorkflowApplication.exe
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\bin\Debug\03 WorkflowApplication.pdb
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\obj\x86\Debug\03 WorkflowApplication.csproj.FileListAbsolute.txt
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\obj\x86\Debug\03 WorkflowApplication.dll
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\obj\x86\Debug\03 WorkflowApplication.pdb
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\obj\x86\Debug\_03_WorkflowApplication_SimpleWorkflow_CompiledExpressionRoot.cs
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\obj\x86\Debug\InProcessTempFiles\SimpleWorkflow.g.cs
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\obj\x86\Debug\InProcessTempFiles\SimpleWorkflow.g.xaml
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\obj\x86\Debug\InProcessTempFiles\Workflow1.g.cs
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\obj\x86\Debug\InProcessTempFiles\Workflow1.g.xaml
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\obj\x86\Debug\InProcessTempFiles\_03 WorkflowApplication.g.cs
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\03 WorkflowApplication\obj\x86\Debug\03 WorkflowApplication.exe

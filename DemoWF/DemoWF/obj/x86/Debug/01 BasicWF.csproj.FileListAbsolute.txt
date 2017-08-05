@@ -1,0 +1,20 @@
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\obj\x86\Debug\01 BasicWF.csprojResolveAssemblyReference.cache
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\obj\x86\Debug\_DemoWF.g.cs
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\obj\x86\Debug\01 BasicWF.csproj.XamlGeneratedCodeFileListAbsolute.txt
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\obj\x86\Debug\01 BasicWF.csproj.XamlGeneratedXamlFileListAbsolute.txt
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\obj\x86\Debug\DemoWF.pdb
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\obj\x86\Debug\InProcessTempFiles\Workflow1.g.cs
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\obj\x86\Debug\InProcessTempFiles\Workflow1.g.xaml
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\obj\x86\Debug\InProcessTempFiles\_DemoWF.g.cs
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\obj\x86\Debug\DemoWF.exe
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\bin\Debug\DemoWF.exe.config
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\bin\Debug\DemoWF.exe
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\bin\Debug\DemoWF.pdb
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\obj\x86\Debug\SimpleWorkflow.g.xaml
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\obj\x86\Debug\DemoWF_SimpleWorkflow_BeforeInitializeComponentHelper.txt
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\obj\x86\Debug\SimpleWorkflow.g.cs
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\obj\x86\Debug\DemoWF_SimpleWorkflow_BeforeInitializeComponentHelper.cs
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\obj\x86\Debug\DemoWF_SimpleWorkflow_CompiledExpressionRoot.cs
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\obj\x86\Debug\InProcessTempFiles\SimpleWorkflow.g.cs
+D:\WorkflowFoundation4\my\Workflow-Foundation\DemoWF\DemoWF\obj\x86\Debug\InProcessTempFiles\SimpleWorkflow.g.xaml
